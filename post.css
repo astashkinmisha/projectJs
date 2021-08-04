@@ -1,0 +1,23 @@
+#commentsOfPosts {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#commentsOfPosts p {
+    border: 1px dotted silver;
+    width: 20%;
+
+
+}
+
+#post-details {
+    text-align: center;
+    background: lightgrey;
+
+}
+#post-details button {
+    width: 90%;
+}
+

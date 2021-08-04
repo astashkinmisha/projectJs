@@ -1,0 +1,28 @@
+#user-details button {
+    width: 90%;
+}
+
+#user-details {
+    text-align: center;
+    background: lightgrey;
+
+}
+
+#postOfUser {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+
+}
+
+#postOfUser p {
+    width: 15%;
+    border: 1px dotted silver;
+    margin: 3px;
+    padding: 2px;
+    box-sizing: content-box;
+    background: lightgrey;
+}
+
+
